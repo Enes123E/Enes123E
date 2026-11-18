@@ -11,8 +11,10 @@ I solve business problems with data, AI agents and automation.
 | Project | What it does | Stack |
 |---|---|---|
 | [Dream Home (Waia Studio)](https://getwaia.com/app/) | AI redesigns your room with real, purchasable products | fal.ai, RevenueCat, Cloudflare |
-| Personal AI Agents and Homelab | Agents that run my own workflows on a self-hosted server | Claude Code, Codex, Docker, local LLMs |
-| Customer Segmentation Demo | K-Means segmentation with silhouette validation on synthetic data | Python, pandas, scikit-learn |
+| [b2b-customer-segmentation](https://github.com/Enes123E/b2b-customer-segmentation) | Customer segments and churn-risk flags from order history | Python, pandas, scikit-learn |
+| [field-service-territory-balancing](https://github.com/Enes123E/field-service-territory-balancing) | Equal workloads and compact areas for field technicians (Optima, 2025) | Python, SciPy, folium |
+| [ai-news-digest-agent](https://github.com/Enes123E/ai-news-digest-agent) | Weekly news digest: LLM editor with human approval | Python, Claude API |
+| [homelab](https://github.com/Enes123E/homelab) | 24/7 home server for my automations, no open ports | Docker, n8n, Cloudflare Tunnel, Tailscale |
 
 ## Tools I use
 
